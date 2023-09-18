@@ -1,0 +1,22 @@
+mx-4 → Margin of 4 in x direction
+
+py-4 = padding of 4 in y direction
+
+cursor-pointer - Changes cursor shape on hovering
+
+space-x-3 - gives spaces to child elements
+
+justify-end => move contents to the right end
+
+flex - Adding a flexbox, change from vertical positioning to horizontal positioning
+
+<!-- use flex in nav with justify-between to bring image down from top left -->
+
+Advantages of using tailwind css:
+1. No reinventing of class names required.
+
+2. Your CSS doesn't grow with your html and designs
+
+3. When you make a change, no risk of breaking existing templates
+
+4. It will not increase bundle size of the site, inspite of having many classes
